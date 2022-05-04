@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\4051TPola03\\Desktop\\frogger\\git\\frogger\\frogger.vbproj",
+      "projectUniqueName": "C:\\Users\\4051TPola03\\Desktop\\frogger\\frogger\\frogger\\frogger.vbproj",
       "projectName": "frogger",
-      "projectPath": "C:\\Users\\4051TPola03\\Desktop\\frogger\\git\\frogger\\frogger.vbproj",
+      "projectPath": "C:\\Users\\4051TPola03\\Desktop\\frogger\\frogger\\frogger\\frogger.vbproj",
       "packagesPath": "C:\\Users\\4051TPola03\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\4051TPola03\\Desktop\\frogger\\git\\frogger\\obj\\",
+      "outputPath": "C:\\Users\\4051TPola03\\Desktop\\frogger\\frogger\\frogger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\4051TPola03\\AppData\\Roaming\\NuGet\\NuGet.Config",

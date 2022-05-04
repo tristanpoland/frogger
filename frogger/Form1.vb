@@ -43,7 +43,7 @@
             If Player.Bounds.IntersectsWith(Row1(a).Bounds) Or Player.Bounds.IntersectsWith(Row2(a).Bounds) Then
                 Player.Top = 484
                 Player.Left = 195
-                MessageBox.Show("You dummy *facepalm*")
+                MessageBox.Show("You dummyhead *facepalm*")
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             End If
         Next
