@@ -79,6 +79,8 @@ Public Class Form1
         Dim seeding As New Random
         Dim seed As Integer
 
+
+
         'Define vars for game tick
         seed = (seeding.Next(10) + 0)
 
